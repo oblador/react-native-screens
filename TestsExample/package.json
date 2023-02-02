@@ -14,7 +14,9 @@
     "@react-navigation/bottom-tabs": "^6.3.1",
     "@react-navigation/drawer": "^6.4.1",
     "@react-navigation/native": "^6.0.10",
+    "@react-navigation/native-stack": "^6.7.0",
     "@react-navigation/stack": "^6.2.1",
+    "jotai": "^2.0.0",
     "nanoid": "^3.2.0",
     "react": "18.2.0",
     "react-native": "0.71.3",
@@ -22,7 +24,6 @@
     "react-native-gesture-handler": "^2.9.0",
     "react-native-reanimated": "3.0.0-rc.10",
     "react-native-safe-area-context": "^4.5.0",
-    "@react-navigation/native-stack": "^6.7.0",
     "react-native-screens": "link:../"
   },
   "devDependencies": {
